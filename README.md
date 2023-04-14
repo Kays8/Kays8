@@ -1,9 +1,13 @@
+<div id="header" align="center">
+  <img src="https://i.pinimg.com/564x/f9/80/ae/f980aea3085ec749efbddd8a771a2255.jpg" width="600"
+</div>
 
-**We should learn from our mistakes 😊**
-+ I'm Kays
-+ Thirayut Boonin
-+ second-year(NPRU)
-+ 
+<h1 align="center">Hi 👋, I'm Kays</h1>
+<h3 align="center">We should learn from our mistakes.</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 
 
