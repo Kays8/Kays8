@@ -1,34 +1,23 @@
-### Hi there 👋
+### Hi👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/orUBsDjlD2rzsz6pPK/giphy.gif" width="300"/>
+  <img src="https://komarev.com/ghpvc/?username=Kays8&style=flat-square&color=blue" alt="account"/>
+  <br>
+  <img src="https://i.pinimg.com/564x/2c/06/4e/2c064e30d0f31970e55cb0c581e15226.jpg" width="300"/>
 </div>
 
 
 <div id="badges"  align="center">
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/@Kays_s_">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <!--<a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a>-->
   
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Kays8&style=flat-square&color=blue" alt="account"/>
-
+  
 </div>
 
 
-**Kays8/Kays8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
